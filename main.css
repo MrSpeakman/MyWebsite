@@ -7,11 +7,11 @@ body{
 /* --------------------------------------------------------------------------- */
 /* INDEX PAGE */
 .indexpagebody{
-    background-image: url(images/starfieldgif.gif);
-    background-repeat: no-repeat;
-    background-size: 0px;
-    background-color: black;
-    background-position: center;
+        background-image: url(images/sungif.gif);
+        background-repeat: no-repeat;
+        background-size: auto;
+        background-color: black;
+        background-position: 0px 50px;
 }
 
 
@@ -64,7 +64,7 @@ h3{
 .externallinksbody{
     background-image: url(images/jupitergif.gif);
     background-repeat: no-repeat;
-    background-size: cover;
+    background-size: auto;
     background-color: black;
     background-position: center;
 }
