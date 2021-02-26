@@ -1,0 +1,177 @@
+/* --------------------------------------------------------------------------- */
+/* BACKGROUND */
+body{
+    background-color: black;
+    background-size: cover;
+}
+/* --------------------------------------------------------------------------- */
+/* INDEX PAGE */
+.indexpagebody{
+    background-image: url(images/starfieldgif.gif);
+    background-repeat: no-repeat;
+    background-size: 0px;
+    background-color: black;
+    background-position: center;
+}
+
+
+.indexpageheader{
+    color: white;
+    position: left;
+
+}
+
+h1{
+    text-align: center;
+    color: red;
+    font-size: 70px;
+    font-style: italic;
+    text-decoration: underline;
+}
+/* --------------------------------------------------------------------------- */
+/* SOLAR SYSTEM PAGE */
+
+.copyright{
+    font-size: 10px;
+    color: white;
+    font-style: normal;
+    text-decoration: underline;
+
+    text-align: center;
+}
+.solarsystemparagraphs{
+    font-style: italic;
+    color: red;
+    font-size: 20px;
+}
+h3{
+    color: white;
+    text-decoration: underline;
+    font-size: 30px;
+}
+.solarsystemimage1{
+    float: right;
+}
+.solarsystemimage2{
+    float: right;
+}
+
+
+
+
+/* --------------------------------------------------------------------------- */
+/* EXTERNAL LINKS PAGE */
+.externallinksbody{
+    background-image: url(images/jupitergif.gif);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-color: black;
+    background-position: center;
+}
+
+.externallinksheader{
+    color: red;
+    font-size: 70px;
+    font-style: italic;
+    text-align: center;
+    text-decoration: underline;
+}
+
+.externallinkstitles{
+    color: red;
+    font-size: 30px;
+    text-decoration: underline;
+}
+.externallinksparagraphs{
+    color: white;
+}
+/* --------------------------------------------------------------------------- */
+/* CONTACT */
+
+.contactbody{
+    color: white;
+    text-align: center;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+*{
+    margin: 0;
+    padding: 0;
+}
+nav{
+    position: top;
+    width: 100%;
+    height: 67px;
+    background-color: black;
+}
+nav p{
+    font-family: Arial;
+    color: white;
+    font-size: 30px;
+    line-height: 55px;
+    float: left;
+    padding: 6px 20px;
+    background-color: red;
+}
+nav ul{
+    float: left;
+}
+nav ul li{
+    float: left;
+    list-style: none;
+    position: relative;
+}
+nav ul li a{
+    display: block;
+    font-family: Arial;
+    color: blueviolet;
+    font-size: 20px;
+    padding: 24px 14px;
+    text-decoration: none;
+}
+
+
+
+
+
+
+
+
+
+
